@@ -15,7 +15,7 @@ Output patterns and perform tasks using shell scripting in Unix
 **Tasks**
 * The script displays a main menu and performs tasks based on the input value.
 * Valid input values = {1, 2, 3, 4, exit}.
-* 1- Input a filename from user and display permissions of that file. Then invert the permissions
+* 1- Input a filename from user and display the permissions of that file; then, invert the permissions.
 > e.g. If permissions were r-x change them to -w-.
 * 2- Input a filename and a string, and search for the string in the file. Output the lines of file where that string is found.
 * 3- Create a file dummy.txt and add the content of all the files in the current directory to dummy.
